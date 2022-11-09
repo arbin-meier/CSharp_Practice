@@ -6,5 +6,10 @@ namespace WinForm_UI_Practice
         {
             InitializeComponent();
         }
+
+        private void btnSave_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

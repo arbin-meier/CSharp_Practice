@@ -30,12 +30,17 @@
         {
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
+            this.txtName = new System.Windows.Forms.TextBox();
+            this.txtDesignation = new System.Windows.Forms.TextBox();
+            this.txtSalary = new System.Windows.Forms.TextBox();
+            this.SaveBtn = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(89, 87);
+            this.label1.Location = new System.Drawing.Point(131, 115);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(42, 15);
             this.label1.TabIndex = 0;
@@ -44,17 +49,62 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(89, 127);
+            this.label2.Location = new System.Drawing.Point(131, 155);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(73, 15);
             this.label2.TabIndex = 1;
             this.label2.Text = "Designation:";
             // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(131, 197);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(41, 15);
+            this.label3.TabIndex = 2;
+            this.label3.Text = "Salary:";
+            // 
+            // txtName
+            // 
+            this.txtName.Location = new System.Drawing.Point(240, 112);
+            this.txtName.Name = "txtName";
+            this.txtName.Size = new System.Drawing.Size(352, 23);
+            this.txtName.TabIndex = 3;
+            // 
+            // txtDesignation
+            // 
+            this.txtDesignation.Location = new System.Drawing.Point(240, 152);
+            this.txtDesignation.Name = "txtDesignation";
+            this.txtDesignation.Size = new System.Drawing.Size(352, 23);
+            this.txtDesignation.TabIndex = 4;
+            // 
+            // txtSalary
+            // 
+            this.txtSalary.Location = new System.Drawing.Point(240, 194);
+            this.txtSalary.Name = "txtSalary";
+            this.txtSalary.Size = new System.Drawing.Size(352, 23);
+            this.txtSalary.TabIndex = 5;
+            // 
+            // SaveBtn
+            // 
+            this.SaveBtn.Location = new System.Drawing.Point(331, 271);
+            this.SaveBtn.Name = "SaveBtn";
+            this.SaveBtn.Size = new System.Drawing.Size(144, 37);
+            this.SaveBtn.TabIndex = 6;
+            this.SaveBtn.Text = "Save";
+            this.SaveBtn.UseVisualStyleBackColor = true;
+            this.SaveBtn.Click += new System.EventHandler(this.btnSave_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(792, 443);
+            this.ClientSize = new System.Drawing.Size(753, 424);
+            this.Controls.Add(this.SaveBtn);
+            this.Controls.Add(this.txtSalary);
+            this.Controls.Add(this.txtDesignation);
+            this.Controls.Add(this.txtName);
+            this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.ForeColor = System.Drawing.Color.Black;
@@ -71,5 +121,10 @@
 
         private Label label1;
         private Label label2;
+        private Label label3;
+        private TextBox txtName;
+        private TextBox txtDesignation;
+        private TextBox txtSalary;
+        private Button SaveBtn;
     }
 }
