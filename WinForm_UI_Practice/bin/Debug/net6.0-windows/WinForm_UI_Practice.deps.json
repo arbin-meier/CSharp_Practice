@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WinForm_UI_Practice/1.0.0": {
+        "runtime": {
+          "WinForm_UI_Practice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinForm_UI_Practice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
