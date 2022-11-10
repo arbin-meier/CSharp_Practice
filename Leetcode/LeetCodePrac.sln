@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode", "Leetcode.csproj", "{233F6C15-2CB7-455E-A98D-DA0BD53CF01C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Converter_StringFloat", "..\Converter_StringFloat\Converter_StringFloat.csproj", "{009B36B6-81E2-4AE1-A4CE-1BFEADC006A3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{233F6C15-2CB7-455E-A98D-DA0BD53CF01C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{233F6C15-2CB7-455E-A98D-DA0BD53CF01C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{233F6C15-2CB7-455E-A98D-DA0BD53CF01C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{009B36B6-81E2-4AE1-A4CE-1BFEADC006A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{009B36B6-81E2-4AE1-A4CE-1BFEADC006A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{009B36B6-81E2-4AE1-A4CE-1BFEADC006A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{009B36B6-81E2-4AE1-A4CE-1BFEADC006A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

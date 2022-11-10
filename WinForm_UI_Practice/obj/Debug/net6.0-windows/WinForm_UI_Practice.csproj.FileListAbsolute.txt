@@ -32,3 +32,4 @@ D:\Winforms_Project_MY\WinForm_UI_Practice\obj\Debug\net6.0-windows\refint\WinFo
 D:\Winforms_Project_MY\WinForm_UI_Practice\obj\Debug\net6.0-windows\WinForm_UI_Practice.pdb
 D:\Winforms_Project_MY\WinForm_UI_Practice\obj\Debug\net6.0-windows\WinForm_UI_Practice.genruntimeconfig.cache
 D:\Winforms_Project_MY\WinForm_UI_Practice\obj\Debug\net6.0-windows\ref\WinForm_UI_Practice.dll
+D:\Winforms_Project_MY\WinForm_UI_Practice\obj\Debug\net6.0-windows\WinForm_UI_Practice.Form2.resources
