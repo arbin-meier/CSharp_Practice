@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "EXvmyVexuO3HoI3SB/5Uo4y4lk+8meryXc8Nwfq/okowpsoCdTFqdVkRhKWu35bN2PWzVGvc0sK8nOb6w0CoqA==",
+  "dgSpecHash": "aBYgUZ+Dtgv0T6MZVX2P/vFLAtwVlj8AAzxgaMyfiBiPIRIczfrPM7U636X2/2a9k1KpzYpFNqQPfXuQe6svDA==",
   "success": true,
   "projectFilePath": "D:\\Winforms_Project_MY\\WinForm_UI_Practice\\WinForm_UI_Practice.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\meier.y.ARBIN\\.nuget\\packages\\microsoft.office.interop.excel\\15.0.4795.1001\\microsoft.office.interop.excel.15.0.4795.1001.nupkg.sha512",
+    "C:\\Users\\meier.y.ARBIN\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.11\\microsoft.netcore.app.host.win-x64.6.0.11.nupkg.sha512",
+    "C:\\Users\\meier.y.ARBIN\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.11\\microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\meier.y.ARBIN\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.11\\microsoft.windowsdesktop.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\meier.y.ARBIN\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.22621.27\\microsoft.windows.sdk.net.ref.10.0.22621.27.nupkg.sha512",
+    "C:\\Users\\meier.y.ARBIN\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.11\\microsoft.netcore.app.ref.6.0.11.nupkg.sha512"
+  ],
   "logs": []
 }

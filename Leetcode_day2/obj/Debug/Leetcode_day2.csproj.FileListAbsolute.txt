@@ -1,0 +1,8 @@
+D:\Winforms_Project_MY\Leetcode_day2\bin\Debug\Leetcode_day2.exe.config
+D:\Winforms_Project_MY\Leetcode_day2\bin\Debug\Leetcode_day2.exe
+D:\Winforms_Project_MY\Leetcode_day2\bin\Debug\Leetcode_day2.pdb
+D:\Winforms_Project_MY\Leetcode_day2\obj\Debug\Leetcode_day2.csproj.AssemblyReference.cache
+D:\Winforms_Project_MY\Leetcode_day2\obj\Debug\Leetcode_day2.csproj.SuggestedBindingRedirects.cache
+D:\Winforms_Project_MY\Leetcode_day2\obj\Debug\Leetcode_day2.csproj.CoreCompileInputs.cache
+D:\Winforms_Project_MY\Leetcode_day2\obj\Debug\Leetcode_day2.exe
+D:\Winforms_Project_MY\Leetcode_day2\obj\Debug\Leetcode_day2.pdb
