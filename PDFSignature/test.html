@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Auto Create PDF Forms from HTML Forms</title>
+</head>
+<body style="font-family: 'Times New Roman'; font-size: 14px">
+    <form name="subscrForm" action="http://www.hiqpdf.com/formsubmitaction/" method="post">
+        Name:<br />
+        <input style="width: 200px" type="text" name="subscrName">
+        <br />
+        <br />
+        Email :<br />
+        <input style="width: 200px" type="text" name="subscrEmail"><br />
+        <br />
+        Website:<br />
+        <input style="width: 200px" type="text" name="subscrWebsite"><br />
+        <br />
+        Password:<br />
+        <input style="width: 200px" type="password" name="subscrPassword"><br />
+        <br />
+        Gender:&nbsp;
+        <input type="radio" name="subscrGender" value="male" checked="checked">Male
+        <input type="radio" name="subscrGender" value="female">Female<br />
+        <br />
+        Domains of interest:&nbsp;
+        <select name="subscrDomains">
+            <option value="science" selected="selected">Science</option>
+            <option value="culture">Culture</option>
+            <option value="music">Music</option>
+        </select><br />
+        <br />
+        Newsletter:&nbsp;<input type="checkbox" name="receiveNewsletterEmail" value="email" checked="checked">By email
+                    <input type="checkbox" name="receiveNewsletterPost" value="post">By post
+        <br />
+        <br />
+        Short description:<br />
+        <textarea name="subscrDescription" style="width: 300px; height: 100px"></textarea>
+        <br />
+        <br />
+        <input type="submit" name="submitButton" value="Submit Form">
+    </form>
+</body>
+</html> 

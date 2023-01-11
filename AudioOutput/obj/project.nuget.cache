@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cy7B380Qlu9mrA5C8EDVKRFAqhVhSJHzNLqVD3JlRz+egxnA0/8QeYsjol80VznJ8X1LI4TMX0vW0fH3QKKlwg==",
+  "dgSpecHash": "f6kfZNpi53GnUlGawPk/e+BCt3J5UpkmRLepluXbrHSX8CAo7J7sCVB/WX5uCkwMbmS4lVF51ogBnPanHsepBQ==",
   "success": true,
-  "projectFilePath": "D:\\Winforms_Project_MY\\AudioOutput\\AudioOutput.csproj",
+  "projectFilePath": "D:\\VS_Solutions\\Winforms_Project_MY\\AudioOutput\\AudioOutput.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

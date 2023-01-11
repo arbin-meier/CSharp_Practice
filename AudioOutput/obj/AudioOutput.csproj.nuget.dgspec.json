@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Winforms_Project_MY\\AudioOutput\\AudioOutput.csproj": {}
+    "D:\\VS_Solutions\\Winforms_Project_MY\\AudioOutput\\AudioOutput.csproj": {}
   },
   "projects": {
-    "D:\\Winforms_Project_MY\\AudioOutput\\AudioOutput.csproj": {
+    "D:\\VS_Solutions\\Winforms_Project_MY\\AudioOutput\\AudioOutput.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Winforms_Project_MY\\AudioOutput\\AudioOutput.csproj",
+        "projectUniqueName": "D:\\VS_Solutions\\Winforms_Project_MY\\AudioOutput\\AudioOutput.csproj",
         "projectName": "AudioOutput",
-        "projectPath": "D:\\Winforms_Project_MY\\AudioOutput\\AudioOutput.csproj",
+        "projectPath": "D:\\VS_Solutions\\Winforms_Project_MY\\AudioOutput\\AudioOutput.csproj",
         "packagesPath": "C:\\Users\\meier.y.ARBIN\\.nuget\\packages\\",
-        "outputPath": "D:\\Winforms_Project_MY\\AudioOutput\\obj\\",
+        "outputPath": "D:\\VS_Solutions\\Winforms_Project_MY\\AudioOutput\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -62,7 +62,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

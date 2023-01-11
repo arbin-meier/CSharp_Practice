@@ -14,3 +14,11 @@ D:\Winforms_Project_MY\Leetcode\obj\Debug\Leetcode.csproj.SuggestedBindingRedire
 D:\Winforms_Project_MY\Leetcode\obj\Debug\Leetcode.csproj.CoreCompileInputs.cache
 D:\Winforms_Project_MY\Leetcode\obj\Debug\ConsoleApp1.exe
 D:\Winforms_Project_MY\Leetcode\obj\Debug\ConsoleApp1.pdb
+D:\VS_Solutions\Winforms_Project_MY\Leetcode\bin\Debug\ConsoleApp1.exe.config
+D:\VS_Solutions\Winforms_Project_MY\Leetcode\bin\Debug\ConsoleApp1.exe
+D:\VS_Solutions\Winforms_Project_MY\Leetcode\bin\Debug\ConsoleApp1.pdb
+D:\VS_Solutions\Winforms_Project_MY\Leetcode\obj\Debug\Leetcode.csproj.AssemblyReference.cache
+D:\VS_Solutions\Winforms_Project_MY\Leetcode\obj\Debug\Leetcode.csproj.SuggestedBindingRedirects.cache
+D:\VS_Solutions\Winforms_Project_MY\Leetcode\obj\Debug\Leetcode.csproj.CoreCompileInputs.cache
+D:\VS_Solutions\Winforms_Project_MY\Leetcode\obj\Debug\ConsoleApp1.exe
+D:\VS_Solutions\Winforms_Project_MY\Leetcode\obj\Debug\ConsoleApp1.pdb

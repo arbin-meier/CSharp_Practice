@@ -6,3 +6,11 @@ D:\Winforms_Project_MY\Leetcode_day3\obj\Debug\Leetcode_day3.csproj.SuggestedBin
 D:\Winforms_Project_MY\Leetcode_day3\obj\Debug\Leetcode_day3.csproj.CoreCompileInputs.cache
 D:\Winforms_Project_MY\Leetcode_day3\obj\Debug\Leetcode_day3.exe
 D:\Winforms_Project_MY\Leetcode_day3\obj\Debug\Leetcode_day3.pdb
+D:\VS_Solutions\Winforms_Project_MY\Leetcode_day3\bin\Debug\Leetcode_day3.exe.config
+D:\VS_Solutions\Winforms_Project_MY\Leetcode_day3\bin\Debug\Leetcode_day3.exe
+D:\VS_Solutions\Winforms_Project_MY\Leetcode_day3\bin\Debug\Leetcode_day3.pdb
+D:\VS_Solutions\Winforms_Project_MY\Leetcode_day3\obj\Debug\Leetcode_day3.csproj.AssemblyReference.cache
+D:\VS_Solutions\Winforms_Project_MY\Leetcode_day3\obj\Debug\Leetcode_day3.csproj.SuggestedBindingRedirects.cache
+D:\VS_Solutions\Winforms_Project_MY\Leetcode_day3\obj\Debug\Leetcode_day3.csproj.CoreCompileInputs.cache
+D:\VS_Solutions\Winforms_Project_MY\Leetcode_day3\obj\Debug\Leetcode_day3.exe
+D:\VS_Solutions\Winforms_Project_MY\Leetcode_day3\obj\Debug\Leetcode_day3.pdb

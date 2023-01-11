@@ -132,7 +132,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(514, 236);
+            this.ClientSize = new System.Drawing.Size(514, 213);
             this.Controls.Add(this.Button_GoodLooking);
             this.Controls.Add(this.Button_StopAudioMp3Loop);
             this.Controls.Add(this.Button_PlayAudioMp3Loop);

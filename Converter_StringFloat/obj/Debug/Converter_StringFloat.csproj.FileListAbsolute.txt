@@ -6,3 +6,11 @@ D:\Winforms_Project_MY\Converter_StringFloat\obj\Debug\Converter_StringFloat.csp
 D:\Winforms_Project_MY\Converter_StringFloat\obj\Debug\Converter_StringFloat.csproj.CoreCompileInputs.cache
 D:\Winforms_Project_MY\Converter_StringFloat\obj\Debug\Converter_StringFloat.exe
 D:\Winforms_Project_MY\Converter_StringFloat\obj\Debug\Converter_StringFloat.pdb
+D:\VS_Solutions\Winforms_Project_MY\Converter_StringFloat\bin\Debug\Converter_StringFloat.exe.config
+D:\VS_Solutions\Winforms_Project_MY\Converter_StringFloat\bin\Debug\Converter_StringFloat.exe
+D:\VS_Solutions\Winforms_Project_MY\Converter_StringFloat\bin\Debug\Converter_StringFloat.pdb
+D:\VS_Solutions\Winforms_Project_MY\Converter_StringFloat\obj\Debug\Converter_StringFloat.csproj.AssemblyReference.cache
+D:\VS_Solutions\Winforms_Project_MY\Converter_StringFloat\obj\Debug\Converter_StringFloat.csproj.SuggestedBindingRedirects.cache
+D:\VS_Solutions\Winforms_Project_MY\Converter_StringFloat\obj\Debug\Converter_StringFloat.csproj.CoreCompileInputs.cache
+D:\VS_Solutions\Winforms_Project_MY\Converter_StringFloat\obj\Debug\Converter_StringFloat.exe
+D:\VS_Solutions\Winforms_Project_MY\Converter_StringFloat\obj\Debug\Converter_StringFloat.pdb
